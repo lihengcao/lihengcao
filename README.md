@@ -1,4 +1,4 @@
-### [lihengcao.github.io](lihengcao.github.io)
+### <https://lihengcao.github.io>
 
 <!--
 **lihengcao/lihengcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
